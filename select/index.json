@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "BOMBARDA",
+  "base_artist": "INI",
+  "createdAt": "2025-12-25T09:20:40.735655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BOMBARDA",
+      "artist": "INI",
+      "has_synced": true,
+      "path": "select/01_BOMBARDA_INI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BOMBARDA",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_BOMBARDA_INI.txt"
+    }
+  ]
+}
