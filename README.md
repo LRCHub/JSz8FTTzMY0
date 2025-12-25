@@ -1,0 +1,87 @@
+# INI – BOMBARDA
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.50] 唱えろ呪文を
+[00:15.26] 大声でもっと
+[00:17.15] Don't you know I got ya
+[00:18.88] Say what
+[00:20.11] Bombarda
+[00:20.87] また trick trick
+[00:21.88] 嘘が蔓延った
+[00:23.18] 荒れ狂った area
+[00:24.86] みんな check check したって意味もない
+[00:27.35] 片っ端からブッ壊せ ayy
+[00:28.99] ビビデバビデブー
+[00:30.76] 見せるよ something new
+[00:32.74] Are you ready now
+[00:34.42] 新世界の view
+[00:36.31] 恐れずに火花を散らすよう
+[00:41.91] We make it fire
+[00:44.24] We are I.N.I
+[00:46.44] Let me take you high
+[00:48.26] I keep going 'til the end
+[00:53.00] Let's go
+[00:53.74] Bombarda bombarda
+[00:55.43] Bombarda bombarda
+[00:57.31] So do it now, do it now
+[00:59.31] 壊せ今 bomb, bomb, bomb
+[01:01.32] Bombarda bombarda
+[01:03.19] Bombarda bombarda
+[01:05.04] So do it now, do it now
+[01:06.85] 壊せ今 bomb, bomb, bomb
+[01:08.57] 見た事ない光景へ
+[01:12.18] 諦めは don't say that
+[01:15.63] You feel me
+[01:16.97] Bombarda bombarda
+[01:18.56] Bombarda bombarda
+[01:20.33] さぁ you gotta, you gotta
+[01:22.12] We made it
+[01:23.48] Bombarda
+[01:24.48] Uh 囚われの身なんて what
+[01:27.86] お断りな new type (type)
+[01:29.42] 収まりきらないぜ
+[01:30.68] ここから escape
+[01:31.60] 前代未聞さこの俺の scale
+[01:33.55] 全然いらない déjà vu
+[01:35.25] 全てパッと変える the brand new styleに
+[01:38.03] 夢まで叫ぼうぜ ほら pow wow
+[01:40.48] I'ma do this again
+[01:41.70] 目標はひとつ次の世界へ
+[01:47.11] We make it right now
+[01:49.40] We are I.N.I
+[01:51.60] Let me take you high
+[01:53.49] I keep going 'til the end
+[01:57.99] Let's go
+[01:58.84] Bombarda bombarda
+[02:00.66] Bombarda bombarda
+[02:02.58] So do it now, do it now
+[02:04.39] 壊せ今 bomb, bomb, bomb
+[02:06.44] Bombarda bombarda
+[02:08.34] Bombarda bombarda
+[02:10.21] So do it now, do it now
+[02:12.17] 壊せ今 bomb, bomb, bomb
+[02:14.11] We take it and we make it louder
+[02:18.10] Jumpin' and we're raisin'
+[02:20.98] Bombarda
+[02:22.25] 失くしかけた光を掴んで
+[02:30.47] 胸の炎を高らかに燃やそう
+[02:39.26] Bombarda bombarda
+[02:40.99] Bombarda bombarda
+[02:42.85] So do it now, do it now
+[02:44.85] 壊せ今 bomb, bomb, bomb
+[02:48.30] 見た事ない光景へ
+[02:51.84] 諦めは don't say that
+[02:55.41] You feel me
+[02:56.56] Bombarda bombarda
+[02:58.31] Bombarda bombarda
+[03:00.19] さぁ you gotta, you gotta
+[03:02.06] We made it
+[03:03.15] Bombarda
+[03:04.11] We take it and we make it louder
+[03:08.01] Jumpin' and we're raisin' higher
+[03:11.76] We take it and we make it louder
+[03:15.67] Jumpin' and we're raisin'
+[03:18.66] Bombarda
+```
